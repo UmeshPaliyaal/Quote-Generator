@@ -14,11 +14,9 @@ body{
 .quote-box{
     font-size: 20px; 
     background: #fff;
-    width: 700px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50% , -50%); 
+    width: 70%;
+    margin: auto;
+     
     padding: 40px;
     border-radius: 10px;
     text-align: center;
@@ -67,7 +65,7 @@ body{
 }
 .NQ{
     margin-top: 20px;
-    margin-left: 500px;
+    
     height: 40px;
     width: 120px;
     font-size: 16px;
@@ -78,7 +76,6 @@ body{
 }
 .TT{
     margin-top: 15px;
-    margin-left: 500px;
     height: 40px;
     width: 120px;
     font-size: 20px;
