@@ -12,38 +12,38 @@ body{
     background: #baacec;
 }
 .quote-box{
-    font-size: 20px; 
+    font-size: 20%; 
     background: #fff;
     width: 700px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50% , -50%); 
-    padding: 40px;
-    border-radius: 10px;
+    padding: 40%;
+    border-radius: 10%;
     text-align: center;
     box-shadow: 0 10px 10px 0px rgba(0,0,0,0.15); 
 }
 .quote-box h1{
-    font-size: 32px;
-    margin-bottom: 40px;
+    font-size: 32%;
+    margin-bottom: 40%;
     position: relative;
 }
 .quote-box h1::after{
     content: '';
-    width: 195px;
-    height: 3px;
-    border-radius: 3px;
+    width: 195%;
+    height: 3%;
+    border-radius: 3%;
     background: rgb(23,124,229);
     position: absolute;
-    bottom: -10px;
+    bottom: -10%;
     left: 50%;
     transform: translateX(-50%);
 
 }
 .quote-box blockquote{
-    font-size: 26px;
-    min-height: 110px;
+    font-size: 26%;
+    min-height: 110%;
 
 }
 .quote-box blockquote::before , .quote-box blockquote::after{
@@ -51,56 +51,56 @@ body{
 }
 .quote-box span{
     display: block;
-    margin-top: 10px;
+    margin-top: 10%;
     float: right;
     position: relative;
 
 }
 .quote-box span::before{
     content: '';
-    width: 20px;
-    height: 2px;
+    width: 20%;
+    height: 2%;
     background: rgb(23,124,229);
     position: absolute;
     top: 50%;
     left: -30px;
 }
 .NQ{
-    margin-top: 20px;
-    margin-left: 500px;
-    height: 40px;
-    width: 120px;
-    font-size: 16px;
+    margin-top: 20%;
+    margin-left: 500%;
+    height: 40%;
+    width: 120%;
+    font-size: 16%;
     background: rgb(209, 169, 246);
     color: black;
-    box-shadow: 0 10px 10px 0px rgba(0,0,0,0.15); 
+    box-shadow: 0 10% 10% 0% rgba(0,0,0,0.15); 
 
 }
 .TT{
-    margin-top: 15px;
-    margin-left: 500px;
-    height: 40px;
-    width: 120px;
-    font-size: 20px;
+    margin-top: 15%;
+    margin-left: 500%;
+    height: 40%;
+    width: 120%;
+    font-size: 20%;
     background: transparent;
     color: black;
-    box-shadow: 0 10px 10px 0px rgba(0,0,0,0.15); 
+    box-shadow: 0 10% 10% 0% rgba(0,0,0,0.15); 
 
 }
 .NQQ{
-    margin-top: 15px;
-    margin-left: 500px;
-    height: 40px;
-    width: 120px;
-    font-size: 16px;
+    margin-top: 15%;
+    margin-left: 500%;
+    height: 40%;
+    width: 120%;
+    font-size: 16%;
     background: rgb(140, 30, 243);
     color: black;
-    box-shadow: 0 10px 10px 0px rgba(0,0,0,0.15); 
-    border: 2px solid;
+    box-shadow: 0 10% 10% 0% rgba(0,0,0,0.15); 
+    border: 2% solid;
 }
 .quote-box button img{
-    width: 15px;
-    margin-right: 10px;
+    width: 15%;
+    margin-right: 10%;
     max-width: 100%;
     height: auto;
 }
