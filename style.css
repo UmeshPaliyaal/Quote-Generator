@@ -1,6 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
-
+@media (max-width: 600px) {
+    /* Styles for screens less than 600px wide */
+  }
+  
 *{
     box-sizing: border-box;
     font-family: "Red Hat Display", sans-serif;
@@ -98,4 +101,6 @@ body{
 .quote-box button img{
     width: 15px;
     margin-right: 10px;
+    max-width: 100%;
+    height: auto;
 }
