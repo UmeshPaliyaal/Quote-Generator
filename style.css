@@ -14,11 +14,12 @@ body{
 .quote-box{
     font-size: 20%; 
     background: #fff;
-    width: 700px;
-    position: absolute;
-    top: 50%;
+    width: 70%;
+    /* position: absolute; */
+    /* top: 50%;
     left: 50%;
-    transform: translate(-50% , -50%); 
+    transform: translate(-50% , -50%);  */
+    margin: auto;
     padding: 40%;
     border-radius: 10%;
     text-align: center;
